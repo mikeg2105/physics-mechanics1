@@ -7,7 +7,7 @@ function vectarrow(p0,p1)
 %   Example:
 %       3D vector
 %       p0 = [1 2 3];   % Coordinate of the first point p0
-%       p1 = [4 5 6];   % Coordinate of the second point p1
+%       p1 = [4 5 6];   % Coordinateint of the second po p1
 %       vectarrow(p0,p1)
 %
 %       2D vector
